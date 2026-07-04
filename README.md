@@ -1,13 +1,13 @@
 ## David Urrego Serna
 
-**Machine Learning Engineer | Data Scientist | Desarrollador**
+**Machine Learning Engineer | Data Scientist | DevOps**
 
-Estudiante de ultimos semestres de Ciencias de la Computación en la Universidad nacinal de Colombia(Sede Medellin); con una sólida base académica en matematicas y estadisticastica, especializado en el desarrollo de soluciones de Machine Learning y análisis de datos.
+Senior Computer Science student at Universidad Nacional de Colombia (Medellín Campus), with a strong academic foundation in mathematics and statistics, specializing in the development of Machine Learning solutions and data analysis.
 
-**Habilidades Técnicas y Herramientas**
-* **Data Science & Machine Learning:** Python, PyTorch, Scikit-Learn, entre otras.
-* **Desarrollo de Software:** Java, TypeScript, Python.
-* **Bases de Datos & Arquitectura:** SQL, SQLserver.
-* **Business Intelligence & Ecosistema Microsoft:** Power BI, Power Apps.
+**Technical Skills & Tools**
+* **Data Science & Machine Learning:** Python, PyTorch, Scikit-Learn, among others.
+* **Software Development:** Java, TypeScript, Python.
+* **Databases & Architecture:** SQL, SQL Server.
+* **Business Intelligence & Microsoft Ecosystem:** Power BI, Power Apps.
 
 **[davidurrego2123@gmail.com]**/[LinkedIn](www.linkedin.com/in/david-urrego-serna-78561325b)
