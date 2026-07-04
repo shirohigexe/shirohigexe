@@ -1,16 +1,13 @@
-## Hi there 👋
+## David Urrego Serna
 
-<!--
-**shirohigexe/shirohigexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Machine Learning Engineer | Data Scientist | Desarrollador**
 
-Here are some ideas to get you started:
+Estudiante de ultimos semestres de Ciencias de la Computación en la Universidad nacinal de Colombia(Sede Medellin); con una sólida base académica en matematicas y estadisticastica, especializado en el desarrollo de soluciones de Machine Learning y análisis de datos. Poseo experiencia avanzada en el ecosistema científico de Python para el modelado predictivo, y complemento mi perfil técnico con conocimientos en desarrollo de software, arquitectura de bases de datos y Business Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Habilidades Técnicas y Herramientas**
+* **Data Science & Machine Learning:** Python, PyTorch, Scikit-Learn, entre otras.
+* **Desarrollo de Software:** Java, TypeScript, Python.
+* **Bases de Datos & Arquitectura:** SQL, SQLserver.
+* **Business Intelligence & Ecosistema Microsoft:** Power BI, Power Apps.
+
+**[davidurrego2123@gmail.com]**/[LinkedIn](www.linkedin.com/in/david-urrego-serna-78561325b)
